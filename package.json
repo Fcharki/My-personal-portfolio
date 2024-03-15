@@ -1,5 +1,6 @@
 {
   "name": "portfolio",
+  "homepage": "https://Fcharki.github.io/My-personal-portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
